@@ -1,3 +1,3 @@
-# project_ppp
-## test
-repository change
+# AIFFEL Project
+## [EX_01] load_digits
+- explain
